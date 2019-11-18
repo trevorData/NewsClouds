@@ -1,3 +1,9 @@
+# [Main Plot](https://i.imgur.com/Tf5mSDh.jpg)
+
+---
+
+### Which Words do News Sources use when Discussing the Top Presidential Candidates?
+
 Each word cloud contains the favorite words of five news sources used in articles about the top presidential candidates. "Favorite" here is defined as words that are the most unique to that particular source's coverage of that particular candidate. Each candidates own name was removed from the articles about them to avoid being obvious.
 
 Data includes articles published from mid-April to mid-May.
